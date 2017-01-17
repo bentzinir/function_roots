@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/function_roots.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
+common.py
+main.py
+root_finder.py
+root_finder.pyc
